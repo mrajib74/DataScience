@@ -4,10 +4,10 @@ setwd("D:\\Rajib\\XLRI\\Textmining\\Project")
 download.file(url="http://curl.haxx.se/ca/cacert.pem", destfile="cacert.pem")
 
 
-consumer_key="QvbEsXCrehMDQALjHGIQj19f3"
-consumer_secret="dmcm4Op8q6sbjf4RfEdZKa3OEAIMfbyZCghAn2Gj3JBZZfkXA0"
-access_token="791122032-WpL9pWaNqMaOmCOEDLdPCLvYYWjJcdAI8ig9H56V"
-access_secret="kkyYmPchDRamsvOTZFBASJpYQ5TMZTZsu34Bj1V251kbN"
+consumer_key="xxxxxxxxxxxx"
+consumer_secret="vvvvvvvvvvvvvvvvvvv"
+access_token="791122032-bbbbbbbbbbbbbbbb"
+access_secret="dddddddddddddddddddddddddd"
 
 setup_twitter_oauth(consumer_key,consumer_secret,access_token,access_secret)
 
